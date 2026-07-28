@@ -12,7 +12,7 @@ Show profile views
 </p> <br>
 
 <p>
-<img align="left" src="assets\Frieren 💫.webp" width="300" /> 
+<img align="left" src="assets\Frieren 💫.webp" width="200" /> 
 
 ```
 karymshakovdaniiar@gmail.com
