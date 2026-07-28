@@ -3,7 +3,6 @@
         <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
     </p>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=Daniiar's+page+<3)](https://git.io/typing-svg)
 
 <!---
 Show profile views
