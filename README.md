@@ -33,6 +33,11 @@ karymshakovdaniiar@gmail.com
 
 <br>
 
+
+
+
+
+
 <h2 align="center"> 🇲‌🇾‌ 🇵‌🇷‌🇴‌🇯‌🇪‌🇨‌🇹‌🇸‌ </h2>
 <p align="center">
   <img src="assets/repos_preview_cropped.gif" style="max-width: 100%;">
