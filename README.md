@@ -62,7 +62,7 @@ karymshakovdaniiar@gmail.com
 
 <h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
 <div align="center">
-  <img src="assets/contact_pic.jpg" 
+  <img src="assets/Fern.webp" 
     align="left" 
     width = 300px 
     height = auto>
